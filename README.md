@@ -1,16 +1,14 @@
-### Hi there 👋
+### yo I am Kody 👋
 
-<!--
-**KodySimpson/KodySimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love coding. Do you love coding? I do.
 
-Here are some ideas to get you started:
+I am a Full Stack Developer who primary works on web applications and services using Java.
+My go-to stack is: *Spring*, *React*, and *MongoDB*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is a little more about me:
+- 🔭 I’m currently working on my first professional website & youtube tutorials
+- 🌱 I’m currently learning EVERYTHING
+- 📫 How to reach me: kodysimpson0616@gmail.com
+- 😄 Pronouns: code/god
+- ⚡ Fun fact: I've never been on a plane before. I have flown one though.
+
